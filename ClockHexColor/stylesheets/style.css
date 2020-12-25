@@ -1,0 +1,13 @@
+/* Template CSS */
+body{
+	box-sizing: border-box;
+}
+
+#clock{
+  font-size: 100px;
+  height: auto;
+  width: 425px;
+  position: relative;
+  margin: 0 auto;
+  top: 40vh;
+}
